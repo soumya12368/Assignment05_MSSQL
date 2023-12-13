@@ -1,4 +1,4 @@
-IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'ExerciseDb')
+IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'Assessment05Db')
     DROP DATABASE Assessment05Db;
 create database Assesment05Db
 use Assesment05Db
